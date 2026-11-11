@@ -1,18 +1,2 @@
-User-agent: *
-Allow: /
-
-# 생성형 AI 검색(GEO)에도 노출되도록 AI 크롤러 허용
-User-agent: GPTBot
-Allow: /
-User-agent: OAI-SearchBot
-Allow: /
-User-agent: ClaudeBot
-Allow: /
-User-agent: PerplexityBot
-Allow: /
-User-agent: Google-Extended
-Allow: /
 User-agent: Yeti
-Allow: /
-
-Sitemap: https://greenvalley.co.kr/sitemap.xml
+Allow:/
